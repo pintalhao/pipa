@@ -1,5 +1,5 @@
 # P.I.P.A
-Receita pintalhona de pale ale.
+Pintalhona [Pale](https://en.wikipedia.org/wiki/Pale) [Ale](https://en.wikipedia.org/wiki/Ale).
 
-Esta é mais complicada...
+~~Esta é mais complicada...~~
 volta aqui, para a ~~recita compleat~~ receita completa...
